@@ -1,0 +1,7 @@
+.body{
+    background : rgb(14, 144, 148);
+}
+.img{
+    display : grid ;
+    place-items : center ;
+}
