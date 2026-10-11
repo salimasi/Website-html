@@ -4,8 +4,7 @@
 So first, you are going to create a html file, it could be what you want for example test.html but there is a catch, you always need to put the extentions like ght.html."
 Then, tap "!", normaly it should show this
 
-
-/*<!DOCTYPE html>
+<!---<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,5 +15,5 @@ Then, tap "!", normaly it should show this
     
 </body>
 </html>
-*/
+-->
 
